@@ -127,12 +127,12 @@ var rules = {
     "What other connections do you see?",
   ],
   "~*x no ~*y": [
-    "Why not?",
+    "Why not EGG?",
     "You are being a bit negative.",
     "Are you saying 'No' just to be negative?",
   ],
   "~*x I was ~*y": [
-    "Were you really?",
+    "Were you really born an egg?",
     "Perhaps I already knew you were ~y.",
     "Why do you tell me you were ~y now?",
   ],
@@ -160,7 +160,7 @@ var rules = {
     "Possibly they are ~y",
   ],
    "~*x are you ~*y": [
-    "Why are you interested in whether I am ~y or not?",
+    "Why are you interested in whether I am ~y an egg or not?",
     "Would you prefer if I weren't ~y ?",
     "Perhaps I am ~y in your fantasies.",
   ],
@@ -168,7 +168,7 @@ var rules = {
     "What makes you think I am ~y?",
   ],
   "~*x because ~*y": [
-    "Is that the real reason?",
+    "Are you sure you're not an egg?",
     "What other reasons might there be?",
     "Does that reason seem to explain anything else?",
   ],
@@ -222,8 +222,8 @@ var rules = {
     "What do you think?",
     "What comes to your mind when you ask that?",
   ],
-  "~*x perhaps ~*y": [
-    "You do not seem quite certain",
+  "~*x Ava ~*y": [
+    "Ava, you are an egg. you are an egg.",
   ],
 };
 
