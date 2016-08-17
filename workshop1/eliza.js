@@ -39,6 +39,13 @@ var rules = {
     "What about computers worries you?",
     "What do you think about computers?",
     "What do you think machines have to do with your problem?",
+    
+   ],
+  "~*x hey ~*y": [
+    "WWASSSAAAAAAAP ~y?",
+    "Wats good :> ~y?",
+    "AVAAA ~y soon.",
+    
   ],
   "~*x name ~*y": [
     "I am not interested in names",
